@@ -28,7 +28,7 @@ export default function TrouveTavoie() {
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">
-            Nov 2022 - April 2023
+            April 2022 - March 2023
           </span>
           <span
             className="font-mono text-xs text-AAsecondary hover:cursor-pointer"
