@@ -15,13 +15,13 @@ const ClickableIcon = (props) => {
   );
 };
 const IconsData = [
-  { href: "https://github.com/hktitof", Icon: GithubIcon },
+  { href: "https://github.com/va1bhav22/", Icon: GithubIcon },
   {
-    href: "https://www.linkedin.com/in/abdellatif-anaflous/",
+    href: "https://www.linkedin.com/in/vaibhav-jadhav-5b7716226/",
     Icon: LinkedinIcon,
   },
-  { href: "https://www.instagram.com/titof_abdo/", Icon: InstagramIcon },
-  { href: "https://www.youtube.com/@abdellatif_anaflous", Icon: YoutubeIcon },
+  // { href: "", Icon: InstagramIcon },
+  // { href: "", Icon: YoutubeIcon },
 ];
 
 export default function Fotter(props: {
