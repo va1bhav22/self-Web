@@ -40,7 +40,7 @@ export default function EnsVision() {
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">
-            May 2023 - May 2024
+            May 2023 - Aug 2024
           </span>
           <span
             className="font-mono text-xs text-AAsecondary hover:cursor-pointer"

@@ -125,7 +125,7 @@ const CompaniesBar = (props) => {
             ]}
             setDescriptionJob={props.setDescriptionJob}
           />
-          <CompanyButton
+          {/* <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={1}
             CompanyName="Thinkzy Tech"
             BarPosition={32}
@@ -140,7 +140,7 @@ const CompaniesBar = (props) => {
               false,
             ]}
             setDescriptionJob={props.setDescriptionJob}
-          />
+          /> */}
           <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={2}
             CompanyName="Masai School"
