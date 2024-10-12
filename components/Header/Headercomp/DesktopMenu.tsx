@@ -123,7 +123,7 @@ export default function DesktopMenu(props: { finishedLoading: boolean }) {
       </motion.span>
       <a
         href={
-          "https://drive.google.com/file/d/1vygAnqjpGaZiCJh0k2_cDaQD4oelUM5c/view?usp=sharing"
+          "https://drive.google.com/file/d/1YZ74WQPRYmClD0nl33sryVXncD0PeC1v/view?usp=sharing"
         }
         target={"_blank"}
         rel="noreferrer"
