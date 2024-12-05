@@ -35,7 +35,7 @@ export default function FeverTokens() {
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">
-            Nov 2021 - Oct 2022
+            Nov 2021 - July 2022
           </span>
           <span
             className="font-mono text-xs text-AAsecondary hover:cursor-pointer"

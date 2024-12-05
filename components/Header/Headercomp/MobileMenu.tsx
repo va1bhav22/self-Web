@@ -93,7 +93,7 @@ const MobileMenu = (props) => {
           </Link>
           <a
             href={
-              "https://drive.google.com/file/d/1YZ74WQPRYmClD0nl33sryVXncD0PeC1v/view?usp=sharing"
+              "https://drive.google.com/file/d/1o4i7nF9Z8FYskT5OjbhOtaEKT3oQ0RBx/view?usp=sharing"
             }
             target={"_blank"}
             rel="noreferrer"

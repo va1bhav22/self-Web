@@ -84,8 +84,8 @@ export default function MyName(props: { finishedLoading: boolean }) {
         technologies, where I actively engage in developing{" "}
         <br className="2xl:block hidden" />
         and designing immersive{" "}
-        <span className="text-AAsecondary">web applications</span>. I have a
-        demonstrated ability to solve complex problems and collaborate
+        <span className="text-AAsecondary">web & mobile applications</span>. I
+        have a demonstrated ability to solve complex problems and collaborate
         effectively <br className="2xl:block hidden" /> within development teams
         to deliver high-quality applications.
         {/* <br className="2xl:block hidden" />creating and deploying them, as well as implementing the
@@ -108,7 +108,7 @@ export default function MyName(props: { finishedLoading: boolean }) {
       >
         <a
           href={
-            "https://drive.google.com/file/d/1YZ74WQPRYmClD0nl33sryVXncD0PeC1v/view?usp=sharing"
+            "https://drive.google.com/file/d/1o4i7nF9Z8FYskT5OjbhOtaEKT3oQ0RBx/view?usp=sharing"
           }
           target={"_blank"}
           rel="noreferrer"

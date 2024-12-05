@@ -8,6 +8,7 @@ export default function AboutMe(props) {
       "JavaScript (ES6+)",
       "Tailwind CSS",
       "React.js",
+      "React Native",
       "Redux-Toolkit ",
       "RTK",
       "Material-Ui",
